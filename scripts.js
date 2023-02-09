@@ -1,1 +1,1 @@
-JS scripts in here
+//JS scripts in here
