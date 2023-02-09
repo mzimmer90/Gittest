@@ -1,1 +1,1 @@
-Just adding some text to test
+Just changing some text in VS Code
